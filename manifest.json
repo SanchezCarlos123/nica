@@ -1,0 +1,17 @@
+{
+    "name": "APP",
+    "short_name": "Suma",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icons",
+            "type": "image/jpg",
+            "sizes": "800x800"
+        }
+    ]
+}
